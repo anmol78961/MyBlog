@@ -1,2 +1,2 @@
-# anmol78961-github-io
+# MyBlog
 My Blog
